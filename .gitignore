@@ -128,6 +128,15 @@ ENV/
 env.bak/
 venv.bak/
 
+.conda
+.env
+*.json
+models\
+data\
+Old_code\
+wandb\
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
