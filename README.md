@@ -22,8 +22,8 @@ bash
 
 Copy code
 
-`git clone https://github.com/your-username/cobol-finetuning.git
-cd cobol-finetuning`
+`git clone https://github.com/rochismandatta/Fine_tune_LLM.git
+cd Fine_tune_LLM`
 
 1.  Install the required Python packages:
 
