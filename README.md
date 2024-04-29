@@ -85,6 +85,18 @@ File Structure
 -   `Information_Of_Repo.xlsx`: Excel file containing repository URLs and descriptions.
 -   `updated_cobol_files.xlsx`: Excel file containing the generated descriptions and prompts for COBOL files.
 
+
+Current Code 
+--------------
+I tried to run the code on the local machine and due to compute restrictions it looked like it would take 150+ hours, so I moved the training to a Collab Pro Notebook with A100 access and that will train in 3+ hours.
+### Local Run:
+![image info](./results/Running_on_Local_3060.png)
+
+
+### Collab Run:
+![image info](./results/Collab_run_A100.png)
+
+
 Contributing
 ------------
 
